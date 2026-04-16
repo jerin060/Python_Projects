@@ -1,35 +1,18 @@
-🐍 30 Small Python Projects
-🔰 Beginner Projects (1–10)
-Even/Odd Checker
-Simple Calculator
-Temperature Converter (C ↔ F)
-Age Calculator
-Password Generator
-Word Counter
-Palindrome Checker
-Fibonacci Series Generator
-Prime Number Checker
-Multiplication Table Generator
-🧠 Basic Logic + Mini Tools (11–20)
-To-Do List (CLI)
-Number Guessing Game
-Dice Rolling Simulator
-Email Slicer (extract username/domain)
-Countdown Timer
-Currency Converter
-Random Quote Generator
-Basic Alarm Clock
-BMI Calculator
-Simple Quiz App
-📊 Data + File Based Projects (21–25)
-CSV File Reader (basic data analysis)
-Student Grade Calculator
-Contact Book (store in file)
-Expense Tracker (basic finance app)
-Log File Analyzer (word/frequency count)
-🤖 Mini Data Science / ML Style Projects (26–30)
-House Price Prediction (Linear Regression)
-Spam Detection (Logistic Regression)
-Iris Flower Classification (KNN / SVM)
-Customer Segmentation (K-Means Clustering)
-Simple Time Series Forecast (trend prediction)
+<div align="center">
+
+# 🐍 30 Small Python Projects
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Beginner+to+Advanced+Python+Projects;Data+Science+%2B+Machine+Learning+Practice;Build+Real+World+Mini+Apps+in+Python" />
+
+---
+
+### 🚀 A curated collection of 30 Python projects to build strong programming foundations
+
+---
+
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Level-Beginner_to_Intermediate-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Problem_Solving-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML-Projects-purple?style=for-the-badge&logo=scikit-learn" />
+
+</div>
