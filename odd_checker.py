@@ -6,3 +6,4 @@ def check_even_odd(n):
 
 number = int(input("Enter a number: "))
 print(check_even_odd(number))
+
